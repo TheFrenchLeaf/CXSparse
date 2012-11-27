@@ -1,6 +1,6 @@
 #[CXSparse](http://www.cise.ufl.edu/research/sparse/CXSparse/) Multi-platform compilation
 
-This version is the 3.1.1 version.
+CXSparse version 3.1.1.
 
 ##Compilation
 - Unzip CXSparse
